@@ -5,8 +5,6 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
-## The Projet is live at:- [IPL Winner Predictor](https://iplpredictor.streamlit.app/)
-
 ## 📖 Introduction
 The IPL Victory Predictor project is a powerful tool that harnesses the power of machine learning to forecast the outcome of matches in the Indian Premier League (IPL) 📈🏆. With its rich dataset containing information on every ball thrown from 2008 to 2021, this project aims to provide cricket enthusiasts, data analysts, and team strategists with valuable insights into team performance and factors influencing victory. 💪📊
 
@@ -58,19 +56,6 @@ Run the project:
 streamlit run main.py
 ```
 
-## 📺 YouTube Video
-Project demo :- [IPL victory predictor using python](https://youtu.be/t63T4-ZvMhM)
-
-<img src="https://github.com/AdityaWadkar/IPL-Winner-Predictor/assets/67093170/dc9a5d42-a0be-44ce-87eb-24bbc021745e">
-
-## 🤝 Contributing 
-🏆🏏 Contributions to the IPL Victory Predictor project are highly appreciated! If you're passionate about cricket and data analysis, we'd love to have you on board. 🤝🌟✨
-
-🔥🔥 To contribute, simply make a pull request 📥 with your awesome additions or improvements. I'll personally review it and gladly accept it if it meets the project's standards. ✅👍
-
-## Authors
-
-- [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
 
 
-🌟 Don't forget to give this repository a star if you found it helpful! 🌟
+
